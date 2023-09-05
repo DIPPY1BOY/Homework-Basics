@@ -1,3 +1,4 @@
+// Задание 4 модуля "Основы"
 const addressLat =  10;
 const addressLong = 5.15;
 let positionLat = 3.18;

@@ -1,3 +1,4 @@
+// Задание 6 модуля "Булева Логика"
 const hasLicense = true;
 const age = 18;
 const isDrunk = false;
