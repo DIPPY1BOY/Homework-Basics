@@ -1,3 +1,4 @@
+// Задание 5 модуля, "Управление потоком"
 const greetingLang = prompt('На каком языке Вас приветствовать?');
 
 switch (greetingLang) {
@@ -13,6 +14,6 @@ switch (greetingLang) {
   case 'cnh':
     console.log('你好！。');
     break;
-  default:
+    default:
     console.log('Язык не задан!');
 }
